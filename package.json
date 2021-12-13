@@ -1,0 +1,16 @@
+{
+  "name": "cryptogodz-tools",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/index.js",
+    "test": "node test/index.js"
+  },
+  "author": "Gabriel Moreira",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "web3": "^1.6.0"
+  }
+}
